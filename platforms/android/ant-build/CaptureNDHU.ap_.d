@@ -35,7 +35,17 @@ C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\
 C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\img \
 C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\index.html \
 C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\js \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\main.html \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\css\bootstrap.min.css \
 C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\css\index.css \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\css\scrolling-nav.css \
 C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\img\logo.png \
 C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\js\index.js \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\js\main.js \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\js\mobileinit.js \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\js\thirdParty \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\js\thirdParty\bootstrap.min.js \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\js\thirdParty\jquery.easing.min.js \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\js\thirdParty\jquery.js \
+C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\assets\www\js\thirdParty\scrolling-nav.js \
 C:\Users\Roy\Documents\github\captureNDHU_phonegap\platforms\android\ant-build\AndroidManifest.xml \
