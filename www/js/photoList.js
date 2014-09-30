@@ -8,7 +8,6 @@ function mainController($scope, $http) {
 	$http.get($scope.remoteUrl + "/api/todos", {timeout: 500})
 		.success(function(data) {
 			$scope.photos = data;
-			alert(data[0].path);
 			console.log(data);
 		})
 		.error(function(data) {
