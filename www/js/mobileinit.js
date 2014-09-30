@@ -4,11 +4,11 @@
     };
     
     var onDeviceReady = function () {
-    	alert("onDeviceReady");
+//    	alert("onDeviceReady");
     };
     
    
     
     var onResume = function () {
-    	alert("on resume");
+//    	alert("on resume");
     };
